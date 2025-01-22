@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "M1K Builds"
-  text: "Community Builds for Pixelpulse2 for Adalm1000"
+  text: "Community Builds for Pixelpulse2 for Adalm1000 Boards"
   tagline: This project is not affiliated to Analog Devices Inc. 
   /*actions:
     - theme: brand

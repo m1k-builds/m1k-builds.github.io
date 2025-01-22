@@ -8,10 +8,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Linux Builds', link: 'https://sounddrill31.github.io/Pixelpulse2/' }
     ],
 
-    sidebar: [
+   /* sidebar: [
       {
         text: 'Examples',
         items: [
@@ -19,10 +19,10 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
-    ],
+    ],*/
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/m1k-builds/m1k-builds.github.io' }
     ]
   }
 })
