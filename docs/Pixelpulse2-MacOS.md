@@ -10,7 +10,7 @@ Add our tap
   ```
 Install app
   ```bash
-  brew install --cask m1k-builds/tap-$(uname -m)/pixelpulse2
+  brew install --no-quarantine  --cask m1k-builds/tap-$(uname -m)/pixelpulse2
   ```
 
 ## Alternative
