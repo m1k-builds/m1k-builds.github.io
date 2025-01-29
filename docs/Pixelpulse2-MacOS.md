@@ -1,15 +1,15 @@
 # Installing on MacOS
 ## Steps
 Set up homebrew
-  ```
+  ```bash
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
 Add our tap
-  ```
+  ```bash
   brew tap m1k-builds/tap-$(uname -m)
   ```
 Install app
-  ```
+  ```bash
   brew install --cask m1k-builds/tap-$(uname -m)/pixelpulse2
   ```
 
