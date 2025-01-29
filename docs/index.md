@@ -20,6 +20,7 @@ features:
     link: https://sounddrill31.github.io/Pixelpulse2
   - title: Windows(Not Planned)
     details: EXE Builds for Windows devices(aarch64 and x86_64), No Maintainer
-  - title: MacOS(Planned)
-    details: Builds for MacOS devices(aarch64 and x86_64), No Maintainer
+  - title: MacOS(WIP/Untested)
+    details: Homebrew Cask Builds for MacOS devices(aarch64 and x86_64), No Maintainer
+    link: /Pixelpulse2-MacOS
 ---

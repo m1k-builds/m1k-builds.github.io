@@ -8,18 +8,20 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Linux Builds', link: 'https://sounddrill31.github.io/Pixelpulse2/' }
+      { text: 'Linux Builds', link: 'https://sounddrill31.github.io/Pixelpulse2/' },
+      { text: 'MacOS Builds(WIP/Untested)', link: '/Pixelpulse2-MacOS' }
     ],
 
-   /* sidebar: [
+    sidebar: [
       {
-        text: 'Examples',
+        text: 'Pages',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Home', link: '/' },
+          { text: 'Linux Builds', link: 'https://sounddrill31.github.io/Pixelpulse2/' },
+          { text: 'MacOS Builds(WIP/Untested)', link: '/Pixelpulse2-MacOS' }
         ]
       }
-    ],*/
+    ],
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/m1k-builds/m1k-builds.github.io' }
